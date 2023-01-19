@@ -1,4 +1,4 @@
-![Github Snake dark](https://github.com/Alysson-Rodrigues/Alysson-Rodrigues/blob/output/github-contribution-grid-snake.svg)
+![Github Snake dark](https://github.com/alysson-tecnobit/alysson-tecnobit/blob/output/github-contribution-grid-snake.svg)
 
 # 🫠🇧🇷 Hi! I'm Alysson Rodrigues...
 <a href="">
