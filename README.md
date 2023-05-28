@@ -24,7 +24,7 @@
 
 ## 🚀 Thats currently my main project:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alysson-Rodrigues&repo=website&theme=midnight-purple)](https://github.com/Alysson-Rodrigues/website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alysson-Rodrigues&repo=website&theme=midnight-purple)](https://github.com/Alysson-Rodrigues/zepheron)
 
 
 #### What i use for building things:
