@@ -1,6 +1,4 @@
-![Github Snake dark](https://github.com/alysson-tecnobit/alysson-tecnobit/blob/output/github-contribution-grid-snake.svg)
-
-# 🫠🇧🇷 Hi! I'm Alysson Rodrigues...
+# 🇧🇷 Hi! I'm Alysson Rodrigues...
 <a href="">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
